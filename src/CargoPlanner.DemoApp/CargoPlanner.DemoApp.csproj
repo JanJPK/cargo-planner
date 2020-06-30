@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CargoPlanner.Algos\CargoPlanner.Algos.csproj" />
+    <ProjectReference Include="..\CargoPlanner.Models\CargoPlanner.Models.csproj" />
+  </ItemGroup>
+
+</Project>
